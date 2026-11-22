@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Template: Python - Minimal
 
 This template leverages the new [Python framework](https://github.com/robocorp/robocorp), the [libraries](https://github.com/robocorp/robocorp/blob/master/README.md#packages) from to same project as well.
@@ -54,3 +55,6 @@ For more information, do not forget to check out the following:
 - [Robocorp Documentation -site](https://robocorp.com/docs)
 - [Portal for more examples](https://robocorp.com/portal)
 - Follow our main [robocorp -repository](https://github.com/robocorp/robocorp) as it is the main location where we developed the libraries and the framework.
+=======
+# robot-order-process
+>>>>>>> 4e223e8d24b364ae2f60c3821328239ce111921f
